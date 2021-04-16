@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**YueWang-ops106/YueWang-ops106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About me
 I am a WebExtension developer and Tumblr theme author.
 
